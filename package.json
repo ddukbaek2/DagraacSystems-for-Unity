@@ -1,15 +1,10 @@
 {
-  "name": "com.unity.uiextensions",
-  "displayName": "DagraacSystems For Unity",
+  "name": "com.dagraac.dagraacsystems.unity",
   "version": "1.0.0",
+  "displayName": "DagraacSystems For Unity",
   "description": "DagraacSystems에 기반한 유니티 확장 라이브러리",
   "author": "dagraac",
-  "contributors": [
-    {
-      "name": "dagraac"
-    }
-  ],
-  "unity": "2021.3.23",
+  "unity": "2021.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dagraac/DagraacSystemsForUnity.git"
