@@ -26,10 +26,10 @@
   ],
   "samples": [
     {
-      "displayName": "UI Extensions Samples",
-      "description": "Examples and demonstrations of the Unity UI Extensions controls",
+      "displayName": "Examples",
+      "description": "DagraacSystems의 Unity 확장 라이브러리 샘플입니다.",
       "path": "Examples~"
     }
   ],
-  "license": "BSD3"
+  "license": "MIT"
 }
