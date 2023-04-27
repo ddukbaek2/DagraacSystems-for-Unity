@@ -2,27 +2,26 @@
   "name": "com.unity.uiextensions",
   "displayName": "DagraacSystems For Unity",
   "version": "1.0.0",
-  "description": "An extension project for the Unity3D UI system, all crafted and contributed by the awesome Unity community",
-  "author": "Simon darkside Jackson <@SimonDarksideJ>",
+  "description": "DagraacSystems에 기반한 유니티 확장 라이브러리",
+  "author": "dagraac",
   "contributors": [
     {
-      "name": "dagraac",
-      "twitter": ""
+      "name": "dagraac"
     }
   ],
   "unity": "2021.3.23",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Unity-UI-Extensions/com.unity.uiextensions.git"
+    "url": "git+https://github.com/dagraac/DagraacSystemsForUnity.git"
   },
   "bugs": {
-    "url": "https://github.com/Unity-UI-Extensions/com.unity.uiextensions/issues"
+    "url": "https://github.com/dagraac/DagraacSystemsForUnity/issues"
   },
   "keywords": [
     "Unity3D",
     "Unity",
     "Unity UI",
-    "UI Extensions"
+    "Unity Extensions"
   ],
   "samples": [
     {
