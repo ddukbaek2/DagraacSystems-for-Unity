@@ -7,10 +7,10 @@
   "unity": "2021.3",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dagraac/DagraacSystemsForUnity.git"
+    "url": "git+https://github.com/dagraac/DagraacSystems-for-Unity.git"
   },
   "bugs": {
-    "url": "https://github.com/dagraac/DagraacSystemsForUnity/issues"
+    "url": "https://github.com/dagraac/DagraacSystems-for-Unity/issues"
   },
   "keywords": [
     "Unity3D",
@@ -21,7 +21,7 @@
   "samples": [
     {
       "displayName": "Examples",
-      "description": "DagraacSystems의 Unity 확장 라이브러리 샘플입니다.",
+      "description": "DagraacSystems에 기반한 Unity 확장 라이브러리 샘플입니다.",
       "path": "Examples~"
     }
   ],
